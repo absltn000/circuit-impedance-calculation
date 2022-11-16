@@ -1,0 +1,8 @@
+Formul:R1+R2*L2+C1
+Frequency: 5
+R1: 4 Om
+R2: 6 Om
+L2: 3 G
+C1: 2 F
+Valid decision:6.1 Om
+An imaginary solution: 6.92308+4.71538i Om
